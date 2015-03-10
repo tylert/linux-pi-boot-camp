@@ -1,13 +1,17 @@
 SHELL := /bin/bash
 
-.PHONY : all
-all : index
+SOURCE_DIR = source
+BUILD_DIR = .
 
-.PHONY : index
-index : index.html
-index.html : index.rst
-	@rst2html $^ > $@
+GENERATED_FILES = $(BUILD_DIR)/index.html $(BUILD_DIR)/location.html \
+  $(BUILD_DIR)/volunteers.html
+
+.PHONY : all
+all : $(GENERATED_FILES)
+
+$(BUILD_DIR)/%.html : $(SOURCE_DIR)/%.rst $(SOURCE_DIR)/menu
+	@rst2html --date --time $< > $@
 
 .PHONY : clean
 clean :
-	@rm -f index.html
+	@rm -f $(GENERATED_FILES)
