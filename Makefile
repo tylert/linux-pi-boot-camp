@@ -4,8 +4,8 @@ SOURCE_DIR = source
 BUILD_DIR = .
 
 SOURCE_FILES = $(wildcard $(SOURCE_DIR)/*.rst)
-GENERATED_FILES = $(BUILD_DIR)/index.html $(BUILD_DIR)/location.html \
-  $(BUILD_DIR)/volunteers.html $(BUILD_DIR)/thanks.html
+GENERATED_FILES = $(BUILD_DIR)/index.html $(BUILD_DIR)/how_to_get_there.html \
+  $(BUILD_DIR)/volunteer_info.html $(BUILD_DIR)/thanks.html
 
 .PHONY : all
 all : $(GENERATED_FILES)
