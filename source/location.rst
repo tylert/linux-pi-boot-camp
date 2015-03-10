@@ -1,8 +1,5 @@
 .. include:: menu
 
-Linux Pi Boot Camp
-==================
-
 When
 ----
 
@@ -16,6 +13,9 @@ https://goo.gl/maps/yTWiY
 | Algonquin College, Woodroffe Campus
 | 1385 Woodroffe Ave
 | Ottawa, ON K2G 1V8
+
+Free parking is available on weekends in Lots 8 & 9.
+Public transit is available from Baseline OCTranspo Transitway Station.
 
 | Building T, School of Advanced Technology
 | 1st floor
@@ -39,6 +39,4 @@ A PDF_ campus map is also available.
 Transportation
 --------------
 
-| Free parking is available on weekends in Lots 8 & 9
-| Public transit is available from Baseline OCTranspo Transitway Station
 

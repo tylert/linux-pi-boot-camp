@@ -1,5 +1,10 @@
-.. Menu stub written in RST and included by all generated html files
+.. This menu stub is written in RST and gets included by all pages
+
+.. raw:: html
+
+  <h1 class="heading">Linux Pi Boot Camp</h1>
 
 `Home <index.html>`__ |
 `Location <location.html>`__ |
-`Volunteers <volunteers.html>`__
+`Volunteers <volunteers.html>`__ |
+`Thanks <thanks.html>`__

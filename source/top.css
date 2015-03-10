@@ -1,0 +1,14 @@
+body {
+  background-color: #ccddee;
+  color: #000000;
+}
+a {
+  color: #0044ff;
+}
+h1.heading {
+  background-color: #000000;
+  color: #ffffff;
+}
+.literal-block {
+  background-color: #aabbcc;
+}
