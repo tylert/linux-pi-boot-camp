@@ -12,15 +12,16 @@ It would be very helpful if you could try to bring the following items with you
 to the event:
 
 * **laptop or similar portable machine** capable of being used to reflash images
-* microSD and SD card adapters to allow for reflashing of images
+* microSD and SD card adapters to allow for reflashing of Raspbian images
+* blank 1GB or larger USB drive suitable for booting an Ubuntu installer
 * spare HDMI display with power cord and HDMI cable
 * spare microUSB power supply (5VDC @ 2A)
 * spare USB mouse and keyboard
 * spare CAT5-ish network cable
 * spare AC power cable (in case someone lugs in a desktop)
 
-The intention is that you would have all the stuff needed to work on at least
-one Raspberry Pi unit (or BeagleBone or other similar recent Linux machine).
+The intention is that you would have all the stuff needed to work on a
+Raspberry Pi unit or BeagleBone or other similar recent Linux machine.
 
 If you prefer to work in small teams and share equipment, that will probably be
 fine as well.
