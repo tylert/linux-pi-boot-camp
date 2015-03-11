@@ -20,7 +20,7 @@ to the event:
 * spare AC power cable (in case someone lugs in a desktop)
 
 The intention is that you would have all the stuff needed to work on at least
-one Raspberry Pi unit (or BeagleBone or other similar Linux machine).
+one Raspberry Pi unit (or BeagleBone or other similar recent Linux machine).
 
 If you prefer to work in small teams and share equipment, that will probably be
 fine as well.
