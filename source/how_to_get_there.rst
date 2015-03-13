@@ -10,9 +10,11 @@ https://goo.gl/maps/yTWiY
 | 1385 Woodroffe Ave
 | Ottawa, ON K2G 1V8
 
-The info desk will be located on the 1st floor **outside Room T119**.
+Please visit the Info Desk located outside **Room T119**.
 
-Free parking is available during the day on weekends in **Lots 8 and 9**.
+Free parking is available during the day on weekends in **Lots 8 and 9 and
+12**.  Parking elsewhere requires payment at all times and the parking is
+patrolled on weekends.  Watch for no parking or restricted parking signs.
 
 Public transit (OCTranspo_ bus service) is available from **Baseline Station**
 (just West of the ACCE Building on the map).
