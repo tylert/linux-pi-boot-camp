@@ -33,7 +33,7 @@ A PDF_ campus map is also available.
 
 .. _Algonquin College: http://www.algonquincollege.com/
 .. _Campus_Map: http://lyceum.algonquincollege.com/roomfinder/
-.. _OCTranspo: http://octranspo.com/
 .. _PDF: http://www.algonquincollege.com/maps/home/woodroffe-campus-map/
+.. _OCTranspo: http://octranspo.com/
 .. _Maidenhead locator: https://en.wikipedia.org/wiki/Maidenhead_Locator_System
 .. _FN25CI93: http://no.nonsense.ee/qth/map.html?qth=FN25CI93&t=s
