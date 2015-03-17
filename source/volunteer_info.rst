@@ -1,9 +1,11 @@
 .. include:: menu
 
+
 Volunteer Info
 ==============
 
 If you are planning to volunteer your Linux expertise at this event, thank you.
+
 
 Stuff to bring
 --------------
@@ -30,13 +32,14 @@ to both the full-size SD cards used in older generation Raspberry Pi units as
 well as microSD cards for the newer generation Raspberry Pi units using a
 microSD to SD adapter.
 
-.. image:: images/320px-MicroSD_MemoryCard_001.jpg
+.. image:: images/320px-MicroSD_MemoryCard_001.png
   :target: MicroSD_
   :alt: Micro SD to SD Adapter
 
 Image from wikimedia.org.
 
 .. _MicroSD: https://commons.wikimedia.org/wiki/File:MicroSD_MemoryCard_001.jpg
+
 
 What to do the day of the event
 -------------------------------
