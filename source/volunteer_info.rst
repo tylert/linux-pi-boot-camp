@@ -23,9 +23,9 @@ to the event:
 * AC power cable (in case someone lugs in a desktop)
 
 If you prefer to work in small teams and share equipment, that will probably be
-fine as well.  We are hoping that some of this stuff may be borrowed from one
-of the labs there but it would be very helpful if you could still try to bring
-stuff anyway to try to ensure there aren't any gaps.
+fine.  We are hoping that some of this stuff may be borrowed from one of the
+labs there but it would be very helpful if you could still try to bring stuff
+anyway to try to ensure there aren't any gaps.
 
 A lot of laptops have built-in SD card readers.  This might allow you to write
 to both the full-size SD cards used in older generation Raspberry Pi units as
