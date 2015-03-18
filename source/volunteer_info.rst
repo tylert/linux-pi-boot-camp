@@ -16,11 +16,11 @@ to the event:
 * **laptop or similar portable machine** capable of being used to reflash images
 * microSD and SD card adapters to allow for reflashing of Raspbian images
 * blank 1GB or larger USB drive suitable for booting an Ubuntu installer
-* spare HDMI display with power cord and HDMI cable
-* spare microUSB power supply (5VDC @ 2A)
-* spare USB mouse and keyboard
-* spare CAT5-ish network cable
-* spare AC power cable (in case someone lugs in a desktop)
+* HDMI display with power cord and HDMI cable
+* microUSB power supply (5VDC @ 2A)
+* USB mouse and keyboard
+* CAT5-ish network cable
+* AC power cable (in case someone lugs in a desktop)
 
 If you prefer to work in small teams and share equipment, that will probably be
 fine as well.  We are hoping that some of this stuff may be borrowed from one
@@ -36,7 +36,8 @@ microSD to SD adapter.
   :target: MicroSD_
   :alt: Micro SD to SD Adapter
 
-Image from wikimedia.org.
+An example of a microSD to SD adapter is on the left.  Image from
+wikimedia.org.
 
 .. _MicroSD: https://commons.wikimedia.org/wiki/File:MicroSD_MemoryCard_001.jpg
 
@@ -47,7 +48,7 @@ What to do the day of the event
 The intention is that you would have available all the stuff needed to work on
 a Raspberry Pi unit or BeagleBone or other similar recent Linux machine.  You
 may be asked to assist with reinstallation, booting, general startup or other
-related tasks.
+related introductory-type tasks.
 
 When you get there, talk to the nice folks at the `Info Desk`_ to determine
 where you can set up your equipment.  When you are ready to accept your first
