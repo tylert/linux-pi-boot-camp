@@ -36,10 +36,10 @@ microSD to SD adapter.
   :target: MicroSD_
   :alt: Micro SD to SD Adapter
 
+.. _MicroSD: https://commons.wikimedia.org/wiki/File:MicroSD_MemoryCard_001.jpg
+
 An example of a microSD to SD adapter is on the left.  Image from
 wikimedia.org.
-
-.. _MicroSD: https://commons.wikimedia.org/wiki/File:MicroSD_MemoryCard_001.jpg
 
 
 What to do the day of the event
@@ -61,3 +61,12 @@ run for about 8 hours to allow for some flexibility in terms of how long it
 might take to help folks, time for breaks and delays in their arrival times.
 
 .. _Info Desk: how_to_get_there.html
+
+
+Additional Reading
+------------------
+
+The `installfest howto`_ and a definition of installfests_.
+
+.. _installfest howto: http://tldp.org/HOWTO/html_single/Installfest-HOWTO/index.html
+.. _installfests: https://en.wikipedia.org/wiki/Linux_user_group#Installfests
