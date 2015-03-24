@@ -16,16 +16,12 @@ to the event:
 * **laptop or similar portable machine** capable of being used to reflash images
 * microSD and SD card adapters to allow for reflashing of Raspbian images
 * blank 1GB or larger USB drive suitable for booting an Ubuntu installer
-* HDMI display with power cord and HDMI cable
 * microUSB power supply (5VDC @ 2A)
-* USB mouse and keyboard
-* CAT5-ish network cable
-* AC power cable (in case someone lugs in a desktop)
 
-If you prefer to work in small teams and share equipment, that will probably be
-fine.  We are hoping that some of this stuff may be borrowed from one of the
-labs there but it would be very helpful if you could still try to bring stuff
-anyway to try to ensure there aren't any gaps.
+Some displays, cables, keyboards and mice will be borrowed from the labs.
+However, bringing your own will certainly be very helpful to ensure there's
+enough to go around.  If you prefer to work in small teams and share equipment,
+that will be ok too.
 
 A lot of laptops have built-in SD card readers.  This might allow you to write
 to both the full-size SD cards used in older generation Raspberry Pi units as
@@ -48,7 +44,8 @@ What to do the day of the event
 The intention is that you would have available all the stuff needed to work on
 a Raspberry Pi unit or BeagleBone or other similar recent Linux machine.  You
 may be asked to assist with reinstallation, booting, general startup or other
-related introductory-type tasks.
+related introductory-type tasks.  You may certainly do whatever you are
+comfortable doing and/or call upon the assistance of your fellow Linux gurus.
 
 When you get there, talk to the nice folks at the `Info Desk`_ to determine
 where you can set up your equipment.  When you are ready to accept your first
