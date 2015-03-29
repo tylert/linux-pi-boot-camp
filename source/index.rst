@@ -33,10 +33,10 @@ What To Bring
 
 Please bring the following things with you (if possible):
 
-* your Raspberry Pi or Linux computer (if you have one already)
-* the microSD or SD card used to boot your Raspberry Pi
-* a suitable power adapter to power your Raspberry Pi
-* a willingness to learn and have fun
+* **Raspberry Pi** or other Linux computer (if you have one already)
+* **microSD or SD card** used to boot your Raspberry Pi
+* suitable **power adapter** to power your Raspberry Pi
+* willingness to learn and have fun
 
 If you wish to make a donation to the `Algonquin Students' Association Food
 Cupboard`_ or to OCLUG_ (`Ottawa Canada Linux Users' Group`_), you may do so at
