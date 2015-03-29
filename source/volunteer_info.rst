@@ -6,6 +6,11 @@ Volunteer Info
 
 If you are planning to volunteer your Linux expertise at this event, thank you.
 
+If you would like to help us plan the event, we have started a `Volunteer
+Form`_ to try to manage all the email stuff.
+
+.. _Volunteer Form: http://goo.gl/forms/qwVNy8H8ns
+
 
 Stuff to bring
 --------------
@@ -34,8 +39,8 @@ microSD to SD adapter.
 
 .. _MicroSD: https://commons.wikimedia.org/wiki/File:MicroSD_MemoryCard_001.jpg
 
-An example of a microSD to SD adapter is on the left.  Image from
-wikimedia.org.
+An example of a microSD to SD adapter is on the left.  A microSD card is on the
+far right for comparison.  Image from wikimedia.org.
 
 
 What to do the day of the event

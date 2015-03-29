@@ -2,8 +2,10 @@
 
 .. raw:: html
 
-  <h1 class="header">Linux Pi Boot Camp</h1>
+  <h1 class="logo">Linux Pi Boot camp</h1>
 
-`Welcome <index.html>`__ |
-`How To Get There <how_to_get_there.html>`__ |
-`Volunteer Info <volunteer_info.html>`__ |
+`Welcome`_ | `How To Get There`_ | `Volunteer Info`_
+
+.. _Welcome: index.html
+.. _How To Get There: how_to_get_there.html
+.. _Volunteer Info: volunteer_info.html

@@ -1,15 +1,33 @@
 body {
-  background-color: #ccddee;
-  color: #000000;
+  background-color: rgba(204, 221, 238, 1);
+  color: rgba(0, 0, 0, 1);
+
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
+
 a {
-  color: #0044ff;
+  color: rgba(0, 68, 255, 1);
 }
+
 h1.header {
-  background-color: #000000;
-  color: #ffffff;
+  background-color: rgba(0, 0, 0, 1);
+  color: rgba(255, 255, 255, 1);
 }
+
+.logo {
+  background-image: url('images/lpbc.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+
 .line {
-  background-color: #aabbcc;
-  color: #224466;
+  background-color: rgba(170, 187, 204, 0.5);
+  color: rgba(34, 68, 102, 1);
+
+  margin-left: 10%;
+  width: 50%;
 }

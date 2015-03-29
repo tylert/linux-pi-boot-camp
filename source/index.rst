@@ -16,7 +16,7 @@ If you wish to make a donation to the `Algonquin Students' Association Food
 Cupboard`_ or the `Ottawa Canada Linux Users' Group`_ (OCLUG_), you may do so
 at the `Info Desk`_.
 
-.. image:: images/oclug-logo.png
+.. image:: images/oclug_logo.png
   :target: OCLUG_
   :alt: OCLUG Logo
 
@@ -24,3 +24,5 @@ at the `Info Desk`_.
 .. _Info Desk: how_to_get_there.html
 .. _Ottawa Canada Linux Users' Group: OCLUG_
 .. _OCLUG: http://oclug.on.ca/
+
+LPBc Logo by Liz Hagemeyer.
