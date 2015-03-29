@@ -4,7 +4,7 @@
 How To Get There
 ================
 
-Fullscreen map at https://goo.gl/maps/yTWiY 
+Fullscreen map at https://goo.gl/maps/yTWiY.
 
 Street address:
 
