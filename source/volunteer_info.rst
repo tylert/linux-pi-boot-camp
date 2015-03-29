@@ -4,12 +4,17 @@
 Volunteer Info
 ==============
 
-If you are planning to volunteer your Linux expertise at this event, thank you.
+If you are planning to come out and volunteer your Linux expertise at this
+event, thank you.  If you would like to help us plan out this event, we have
+started a `Volunteer Sign-Up Form`_ to try to simplify all the organizing of
+stuff.
 
-If you would like to help us plan the event, we have started a `Volunteer
-Form`_ to try to manage all the email stuff.
+If you would like to demo stuff or present something, we please ask that you
+submit your proposal using the form above so that we can try to plan a suitable
+timeslot for you.  Of course, we also won't try to dissuade you if you want to
+come hang out with us all day long.
 
-.. _Volunteer Form: http://goo.gl/forms/qwVNy8H8ns
+.. _Volunteer Sign-Up Form: http://goo.gl/forms/qwVNy8H8ns
 
 
 Stuff to bring
@@ -49,7 +54,7 @@ What to do the day of the event
 The intention is that you would have available all the stuff needed to work on
 a Raspberry Pi unit or BeagleBone or other similar recent Linux machine.  You
 may be asked to assist with reinstallation, booting, general startup or other
-related introductory-type tasks.  You may certainly do whatever you are
+related introductory-type questions.  You may certainly do whatever you are
 comfortable doing and/or call upon the assistance of your fellow Linux gurus.
 
 When you get there, talk to the nice folks at the `Info Desk`_ to determine

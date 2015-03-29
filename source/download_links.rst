@@ -1,14 +1,19 @@
 .. include:: menu
 
 
-Quick Links
-===========
+Download Links
+==============
 
 Raspberry Pi:
 
 * NOOBS http://downloads.raspberrypi.org/NOOBS_latest
 * Raspbian http://downloads.raspberrypi.org/raspbian_latest
-* http://www.raspberrypi.org/downloads/
+* Some Other Flavours http://www.raspberrypi.org/downloads/
+
+XBian (Kodi, former XBMC):
+
+* XBian Raspberry Pi 2 http://sourceforge.net/projects/xbian/files/release/XBian_Latest_rpi2.img.gz/
+* XBian Raspberry Pi 1 http://sourceforge.net/projects/xbian/files/release/XBian_Latest_rpi.img.gz/
 
 RetroPie (Video Game Console):
 
