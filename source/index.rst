@@ -38,6 +38,9 @@ Please bring the following things with you (if possible):
 * suitable **power adapter** to power your Raspberry Pi
 * willingness to learn and have fun
 
+We are hoping to have Buyapi_ on hand with a table there to sell any items that
+you may have forgotten.
+
 If you wish to make a donation to the `Algonquin Students' Association Food
 Cupboard`_ or to OCLUG_ (`Ottawa Canada Linux Users' Group`_), you may do so at
 the `Info Desk`_.
@@ -55,11 +58,16 @@ the `Info Desk`_.
   :target: OCLUG_
   :alt: OCLUG Logo
 
+.. image:: images/buyapi_logo.png
+  :target: Buyapi_
+  :alt: Buyapi Logo
+
+.. _Info Desk: how_to_get_there.html
 .. _Algonquin College: http://www.algonquincollege.com/
 .. _Algonquin SA: http://www.algonquinsa.com/
 .. _Algonquin Students' Association Food Cupboard: http://www.algonquinsa.com/sa-events/upcoming-events.aspx?id=921
-.. _Info Desk: how_to_get_there.html
 .. _Ottawa Canada Linux Users' Group: OCLUG_
 .. _OCLUG: http://oclug.on.ca/
+.. _Buyapi: http://www.buyapi.ca/
 
 LPBc Logo by Liz Hagemeyer.
