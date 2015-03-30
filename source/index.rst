@@ -20,10 +20,14 @@ able to offer such an event.
 When and Where
 --------------
 
-We will have an Info Desk set up outside **Room T119** at Algonquin College.
+Feel free to **drop in anytime** during the event.  Don't feel obligated to
+stay the whole day, although many of us plan to do so.
 
 | Saturday, May 23, 2015 from 0900h to 1600h (Eastern Time)
 | Algonquin College, Woodroffe Campus, Building T, 1st Floor
+| Ottawa, Ontario, Canada
+
+We will have an Info Desk set up outside **Room T119** at Algonquin College.
 
 More detailed directions may be found on our `How To Get There
 <how_to_get_there.html>`__ page.
