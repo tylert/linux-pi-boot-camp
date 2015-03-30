@@ -4,6 +4,12 @@
 Download Links
 ==============
 
+Paper Advert:
+
+.. image:: signs/letter_advert.png
+  :target: signs/letter_advert.pdf
+  :alt: Letter-sized Advert Signage
+
 Raspberry Pi:
 
 * NOOBS http://downloads.raspberrypi.org/NOOBS_latest
