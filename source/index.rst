@@ -54,10 +54,6 @@ the `Info Desk`_.
   :height: 150px
   :alt: LPBc Logo
 
-.. image:: images/algonquin_sa_logo.png
-  :target: `Algonquin SA`_
-  :alt: Algonquin SA Logo
-
 .. image:: images/oclug_logo.png
   :target: OCLUG_
   :alt: OCLUG Logo
@@ -66,12 +62,16 @@ the `Info Desk`_.
   :target: Buyapi_
   :alt: Buyapi Logo
 
+.. image:: images/algonquin_sa_logo.png
+  :target: `Algonquin SA`_
+  :alt: Algonquin SA Logo
+
 .. _Info Desk: how_to_get_there.html
 .. _Algonquin College: http://www.algonquincollege.com/
-.. _Algonquin SA: http://www.algonquinsa.com/
-.. _Algonquin Students' Association Food Cupboard: http://www.algonquinsa.com/sa-events/upcoming-events.aspx?id=921
 .. _Ottawa Canada Linux Users' Group: OCLUG_
 .. _OCLUG: http://oclug.on.ca/
 .. _Buyapi: http://www.buyapi.ca/
+.. _Algonquin SA: http://www.algonquinsa.com/
+.. _Algonquin Students' Association Food Cupboard: http://www.algonquinsa.com/sa-events/upcoming-events.aspx?id=921
 
 LPBc Logo by Liz Hagemeyer.
