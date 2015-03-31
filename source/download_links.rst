@@ -4,6 +4,9 @@
 Download Links
 ==============
 
+These are some helpful links that might be of assistance before, during and
+after the event.
+
 Paper Advert:
 
 .. image:: signs/letter_advert.png
