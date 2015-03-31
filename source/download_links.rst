@@ -19,6 +19,11 @@ Raspberry Pi:
 * Raspbian http://downloads.raspberrypi.org/raspbian_latest
 * Some Other Flavours http://www.raspberrypi.org/downloads/
 
+BerryBoot (multi-distro bootloader for Raspberry Pi):
+
+* BerryBoot for Raspberry Pi 2 http://downloads.sourceforge.net/project/berryboot/berryboot-20150401-pi2-only.zip
+* BerryBoot for Raspberry Pi 1 http://downloads.sourceforge.net/project/berryboot/berryboot-20140814.zip
+
 XBian (Kodi, former XBMC):
 
 * XBian Raspberry Pi 2 http://sourceforge.net/projects/xbian/files/release/XBian_Latest_rpi2.img.gz/
