@@ -24,9 +24,9 @@ It would be very helpful if you could try to bring the following items with you
 to the event:
 
 * **laptop or similar portable machine** capable of being used to reflash images
-* microSD and SD card adapters to allow for reflashing of Raspbian images
-* blank 1GB or larger USB drive suitable for booting an Ubuntu installer
-* microUSB power supply (5VDC @ 2A)
+* microSD and SD **card adapters** to allow for reflashing of Raspbian images
+* blank 1GB or larger **USB thumb drive** for booting an Ubuntu installer
+* **microUSB power supply** (5VDC @ 2A)
 
 Some displays, cables, keyboards and mice will be borrowed from the labs.
 However, bringing your own will certainly be very helpful to ensure there's

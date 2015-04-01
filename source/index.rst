@@ -17,6 +17,11 @@ volunteer members of the non-profit `Ottawa Canada Linux Users' Group`_
 (OCLUG_) for donating their time and expertise without which we would not be
 able to offer such an event.
 
+.. _Algonquin College: http://www.algonquincollege.com/
+.. _Ottawa Canada Linux Users' Group: OCLUG_
+.. _OCLUG: http://oclug.on.ca/
+
+
 When and Where
 --------------
 
@@ -32,6 +37,7 @@ We will have an Info Desk set up outside **Room T119** at Algonquin College.
 More detailed directions may be found on our `How To Get There
 <how_to_get_there.html>`__ page.
 
+
 What To Bring
 -------------
 
@@ -45,9 +51,16 @@ Please bring the following things with you (if possible):
 We are hoping to have Buyapi_ on hand with a table there to sell any items that
 you may have forgotten.
 
+.. _Buyapi: http://www.buyapi.ca/
+
 If you wish to make a donation to the `Algonquin Students' Association Food
-Cupboard`_ or to OCLUG_ (`Ottawa Canada Linux Users' Group`_), you may do so at
-the `Info Desk`_.
+Cupboard`_, you may do so at the `Info Desk`_.  They urgently need the
+following items: diapers, baby formula, baby wipes, juice boxes or cans, rice,
+soup, canned meat, canned veggies, canned fruit, pasta and sauce.
+
+.. _Algonquin Students' Association Food Cupboard: http://www.algonquinsa.com/sa-events/upcoming-events.aspx?id=921
+.. _Info Desk: how_to_get_there.html
+
 
 .. image:: images/lpbc_logo.svg
   :target: index.html
@@ -63,15 +76,7 @@ the `Info Desk`_.
   :alt: Buyapi Logo
 
 .. image:: images/algonquin_sa_logo.png
-  :target: `Algonquin SA`_
+  :target: `Algonquin Students' Association Food Cupboard`_
   :alt: Algonquin SA Logo
-
-.. _Info Desk: how_to_get_there.html
-.. _Algonquin College: http://www.algonquincollege.com/
-.. _Ottawa Canada Linux Users' Group: OCLUG_
-.. _OCLUG: http://oclug.on.ca/
-.. _Buyapi: http://www.buyapi.ca/
-.. _Algonquin SA: http://www.algonquinsa.com/
-.. _Algonquin Students' Association Food Cupboard: http://www.algonquinsa.com/sa-events/upcoming-events.aspx?id=921
 
 LPBc Logo by Liz Hagemeyer.

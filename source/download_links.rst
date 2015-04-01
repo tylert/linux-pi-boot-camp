@@ -11,7 +11,7 @@ Paper Advert:
 
 .. image:: signs/letter_advert.png
   :target: signs/letter_advert.pdf
-  :alt: Letter-sized Advert Signage
+  :alt: Printable LPBc Advertising Signage
 
 Raspberry Pi:
 
@@ -19,20 +19,26 @@ Raspberry Pi:
 * Raspbian http://downloads.raspberrypi.org/raspbian_latest
 * Some Other Flavours http://www.raspberrypi.org/downloads/
 
-BerryBoot (multi-distro bootloader for Raspberry Pi):
+BerryBoot_ (multi-distro bootloader for Raspberry Pi):
 
 * BerryBoot for Raspberry Pi 2 http://downloads.sourceforge.net/project/berryboot/berryboot-20150401-pi2-only.zip
 * BerryBoot for Raspberry Pi 1 http://downloads.sourceforge.net/project/berryboot/berryboot-20140814.zip
 
-XBian (Kodi, former XBMC):
+.. _BerryBoot: http://www.berryterminal.com/doku.php/berryboot
+
+XBian_ (Kodi, former XBMC):
 
 * XBian Raspberry Pi 2 http://sourceforge.net/projects/xbian/files/release/XBian_Latest_rpi2.img.gz/
 * XBian Raspberry Pi 1 http://sourceforge.net/projects/xbian/files/release/XBian_Latest_rpi.img.gz/
 
-RetroPie (Video Game Console):
+.. _XBian: http://www.xbian.org/
+
+RetroPie_ (Video Game Console):
 
 * RetroPie Pre-Built Images http://blog.petrockblock.com/retropie/retropie-downloads/
-* RetroPie Installer http://blog.petrockblock.com/2012/07/22/retropie-setup-an-initialization-script-for-retroarch-on-the-raspberry-pi/
+* RetroPie Installer Script http://blog.petrockblock.com/2012/07/22/retropie-setup-an-initialization-script-for-retroarch-on-the-raspberry-pi/
+
+.. _RetroPie: http://blog.petrockblock.com/retropie/
 
 Ubuntu (LTS):
 
