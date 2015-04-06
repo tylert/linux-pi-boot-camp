@@ -19,19 +19,12 @@ Raspberry Pi:
 * Raspbian http://downloads.raspberrypi.org/raspbian_latest
 * Some Other Flavours http://www.raspberrypi.org/downloads/
 
-BerryBoot_ (multi-distro bootloader for Raspberry Pi):
+OSMC_ (Kodi, former XBMC):
 
-* BerryBoot for Raspberry Pi 2 http://downloads.sourceforge.net/project/berryboot/berryboot-20150401-pi2-only.zip
-* BerryBoot for Raspberry Pi 1 http://downloads.sourceforge.net/project/berryboot/berryboot-20140814.zip
+* OSMC Raspberry Pi 2 http://download.osmc.tv/installers/diskimages/OSMC_TGT_rbp2_20150315.img.gz
+* OSMC Raspberry Pi 1 http://download.osmc.tv/installers/diskimages/OSMC_TGT_rbp1_20150331.img.gz
 
-.. _BerryBoot: http://www.berryterminal.com/doku.php/berryboot
-
-XBian_ (Kodi, former XBMC):
-
-* XBian Raspberry Pi 2 http://sourceforge.net/projects/xbian/files/release/XBian_Latest_rpi2.img.gz/
-* XBian Raspberry Pi 1 http://sourceforge.net/projects/xbian/files/release/XBian_Latest_rpi.img.gz/
-
-.. _XBian: http://www.xbian.org/
+.. _OSMC: https://osmc.tv/
 
 RetroPie_ (Video Game Console):
 
@@ -39,6 +32,13 @@ RetroPie_ (Video Game Console):
 * RetroPie Installer Script http://blog.petrockblock.com/2012/07/22/retropie-setup-an-initialization-script-for-retroarch-on-the-raspberry-pi/
 
 .. _RetroPie: http://blog.petrockblock.com/retropie/
+
+BerryBoot_ (multi-distro bootloader for Raspberry Pi):
+
+* BerryBoot for Raspberry Pi 2 http://downloads.sourceforge.net/project/berryboot/berryboot-20150401-pi2-only.zip
+* BerryBoot for Raspberry Pi 1 http://downloads.sourceforge.net/project/berryboot/berryboot-20140814.zip
+
+.. _BerryBoot: http://www.berryterminal.com/doku.php/berryboot
 
 Ubuntu (LTS):
 
