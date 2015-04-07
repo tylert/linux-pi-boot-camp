@@ -62,9 +62,8 @@ soup, canned meat, canned veggies, canned fruit, pasta and sauce.
 .. _Info Desk: how_to_get_there.html
 
 
-.. image:: images/lpbc_logo.svg
+.. image:: images/lpbc_logo.png
   :target: index.html
-  :height: 150px
   :alt: LPBc Logo
 
 .. image:: images/oclug_logo.png
