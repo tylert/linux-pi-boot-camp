@@ -13,7 +13,8 @@ GENERATED_FILES = $(BUILD_DIR)/index.html $(BUILD_DIR)/how_to_get_there.html \
 all : $(GENERATED_FILES)
 
 $(BUILD_DIR)/%.html : $(SOURCE_DIR)/%.rst $(SOURCE_DIR)/menu $(SOURCE_DIR)/top.css
-	@rst2html --stylesheet=$(SOURCE_DIR)/top.css --date --time $< > $@
+	@rst2html --title=$(notdir $@) --stylesheet=$(SOURCE_DIR)/top.css \
+  --date --time $< > $@
 
 signs/%.pdf : signs/%.svg Makefile
 	@inkscape --export-pdf=$@ $<
