@@ -21,8 +21,8 @@ Raspberry Pi:
 
 OSMC_ (Kodi, former XBMC):
 
-* OSMC Raspberry Pi 2 http://download.osmc.tv/installers/diskimages/OSMC_TGT_rbp2_20150315.img.gz
-* OSMC Raspberry Pi 1 http://download.osmc.tv/installers/diskimages/OSMC_TGT_rbp1_20150331.img.gz
+* OSMC for Raspberry Pi 2 http://download.osmc.tv/installers/diskimages/OSMC_TGT_rbp2_20150315.img.gz
+* OSMC for Raspberry Pi 1 http://download.osmc.tv/installers/diskimages/OSMC_TGT_rbp1_20150331.img.gz
 
 .. _OSMC: https://osmc.tv/
 

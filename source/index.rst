@@ -37,6 +37,24 @@ We will have an Info Desk set up outside **Room T119** at Algonquin College.
 More detailed directions may be found on our `How To Get There
 <how_to_get_there.html>`__ page.
 
+Mini-Presentations
+^^^^^^^^^^^^^^^^^^
+
+The following 10 to 20-minute mini-presentations will occur throughout the day:
+
+  =====  =====
+  Time   Talk
+  =====  =====
+  0900h  Welcome Message and Single-Board Computer Overview
+  1000h  TBD
+  1100h  General-Purpose Input/Output and Arduino Howto
+  1200h  Lunch Break
+  1300h  Software-Defined Radio Receiver Demonstration
+  1400h  TBD
+  1500h  Pocket Hotspot and Travel Router Tutorial
+  1600h  Wrap-Up and Further Ideas Summary
+  =====  =====
+
 
 What To Bring
 -------------
