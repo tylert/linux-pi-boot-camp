@@ -19,10 +19,9 @@ Raspberry Pi:
 * Raspbian http://downloads.raspberrypi.org/raspbian_latest
 * Some Other Flavours http://www.raspberrypi.org/downloads/
 
-OSMC_ (Kodi, former XBMC):
+OSMC_ (Kodi, former XBMC;  Replaces former RaspBMC project):
 
-* OSMC for Raspberry Pi 2 http://download.osmc.tv/installers/diskimages/OSMC_TGT_rbp2_20150315.img.gz
-* OSMC for Raspberry Pi 1 http://download.osmc.tv/installers/diskimages/OSMC_TGT_rbp1_20150331.img.gz
+* OSMC for Raspberry Pi https://osmc.tv/download/images/
 
 .. _OSMC: https://osmc.tv/
 
