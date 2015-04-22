@@ -66,7 +66,7 @@ Please bring the following things with you (if possible):
 * suitable **power adapter** to power your Raspberry Pi
 * willingness to learn and have fun
 
-We are hoping to have Buyapi_ on hand with a table there to sell any items that
+The local distributor Buyapi_ will be there with a table to sell any items that
 you may have forgotten.
 
 .. _Buyapi: http://www.buyapi.ca/

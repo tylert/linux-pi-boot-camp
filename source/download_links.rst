@@ -13,6 +13,13 @@ Paper Advert:
   :target: signs/letter_advert.pdf
   :alt: Printable LPBc Advertising Signage
 
+Web Advert:
+
+.. image:: images/banner_advert.png
+  :height: 200px
+  :target: images/banner_advert.png
+  :alt: Web Banner LPBc Advertising Signage
+
 Raspberry Pi:
 
 * NOOBS http://downloads.raspberrypi.org/NOOBS_latest
@@ -50,4 +57,4 @@ Ubuntu (LTS):
 Debian (Stable + Almost Stable):
 
 * Debian Wheezy amd64/i386 http://cdimage.debian.org/debian-cd/7.8.0/multi-arch/iso-cd/debian-7.8.0-amd64-i386-netinst.iso
-* Debian Jessie (RC 2) amd64/i386 http://cdimage.debian.org/cdimage/jessie_di_rc2/multi-arch/iso-cd/debian-jessie-DI-rc2-amd64-i386-netinst.iso
+* Debian Jessie (RC 3) amd64/i386 http://cdimage.debian.org/cdimage/jessie_di_rc3/multi-arch/iso-cd/debian-jessie-DI-rc3-amd64-i386-netinst.iso
