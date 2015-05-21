@@ -55,6 +55,8 @@ The following 10 to 20-minute mini-presentations will occur throughout the day:
   1600h  Wrap-Up and Further Ideas Summary
   =====  =====
 
+This list may be subject to change.
+
 
 What To Bring
 -------------
